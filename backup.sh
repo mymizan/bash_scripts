@@ -40,10 +40,10 @@ fi
 #start backup
 BACKUP_LOCATION="$BACKUP_DIR""$BACKUP_NAME"
 tar cvfz $BACKUP_LOCATION $SOURCE_DIR
-cat <<- _EOF_
+cat <<- __EOF__
 
 
  "Backup Finished!"
 
 
- _EOF_
+__EOF__
