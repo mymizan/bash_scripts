@@ -14,4 +14,8 @@ Installation
 3. Make it executable with chmod a+x backup.sh
 4. Add it to your crontab to run automatically 
 
+===
+Feature Request
+===
+Let me know your feature requests and suggestions. I will implement it, if I can. 
 
