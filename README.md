@@ -7,6 +7,11 @@ BASH Backup Script
 </p>
 
 ===
+MySQL Daily Backup Script
+===
+Backup your mysql database automatically and optinally compress it with tar
+
+===
 Installation
 ===
 1. Clone the git repository on your server
